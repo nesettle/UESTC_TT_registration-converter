@@ -1,0 +1,2 @@
+# UESTC_TT_registration-converter
+金数据报名表导出格式与优赛报名表上传格式转换器
